@@ -1,0 +1,14 @@
+/Users/kirill_2008/дз по C#/DZ_4/bin/Debug/net10.0/DZ_4
+/Users/kirill_2008/дз по C#/DZ_4/bin/Debug/net10.0/DZ_4.deps.json
+/Users/kirill_2008/дз по C#/DZ_4/bin/Debug/net10.0/DZ_4.runtimeconfig.json
+/Users/kirill_2008/дз по C#/DZ_4/bin/Debug/net10.0/DZ_4.dll
+/Users/kirill_2008/дз по C#/DZ_4/bin/Debug/net10.0/DZ_4.pdb
+/Users/kirill_2008/дз по C#/DZ_4/obj/Debug/net10.0/DZ_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirill_2008/дз по C#/DZ_4/obj/Debug/net10.0/DZ_4.AssemblyInfoInputs.cache
+/Users/kirill_2008/дз по C#/DZ_4/obj/Debug/net10.0/DZ_4.AssemblyInfo.cs
+/Users/kirill_2008/дз по C#/DZ_4/obj/Debug/net10.0/DZ_4.csproj.CoreCompileInputs.cache
+/Users/kirill_2008/дз по C#/DZ_4/obj/Debug/net10.0/DZ_4.dll
+/Users/kirill_2008/дз по C#/DZ_4/obj/Debug/net10.0/refint/DZ_4.dll
+/Users/kirill_2008/дз по C#/DZ_4/obj/Debug/net10.0/DZ_4.pdb
+/Users/kirill_2008/дз по C#/DZ_4/obj/Debug/net10.0/DZ_4.genruntimeconfig.cache
+/Users/kirill_2008/дз по C#/DZ_4/obj/Debug/net10.0/ref/DZ_4.dll
