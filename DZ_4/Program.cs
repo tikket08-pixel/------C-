@@ -11,7 +11,7 @@ Console.WriteLine($"После обмена: a = {a}, b = {b}");
 
 void Swap(ref int x, ref int y)
 {
-    int temp = x;
+    int z = x;
     x = y;
-    y = temp;
+    y = z;
 }
